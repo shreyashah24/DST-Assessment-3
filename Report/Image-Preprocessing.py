@@ -91,19 +91,19 @@ for i in range(len(class_names)):
         for k in range(2):
             new_training[class_names[i]+'_train'].append(random_crop(training[class_names[i]+'_train'][j]))
             
-for i in range(len(class_names)):
-    for j in range(len(training[class_names[i]+'_train'])):
-        new_training.append(training[class_names[i]+'_train'][j].filter(ImageFilter.BoxBlur(4)))
+#for i in range(len(class_names)):
+#    for j in range(len(training[class_names[i]+'_train'])):
+#        new_training.append(training[class_names[i]+'_train'][j].filter(ImageFilter.BoxBlur(4)))
         
 ## Training data
 train_path = 'NewData/Training/'
-for i range(len(class_names)):
+for i in range(len(class_names)):
     for j in range(len(training[class_names[i]+'_train'])):
         new_training[class_names[i]+'_train'][j].save(train_path+class_names[i]+'/'+str(j)+'.jpg')
         
 ## Test data
 test_path = 'NewData/Testing/'
-for i range(len(class_names)):
+for i in range(len(class_names)):
     for j in range(len(test[class_names[i]+'_train'])):
         test[class_names[i]+'_test'][j].save(test_path+class_names[i]+'/'+str(j)+'.jpg')
 
