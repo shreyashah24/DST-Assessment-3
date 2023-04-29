@@ -20,7 +20,7 @@ Equal equity.
   
   -02-Exploratory Data Analysis.ipynb
   
-  -03-PreProcessing.ipynb
+  -03-Preprocessing.ipynb
 
   
   
