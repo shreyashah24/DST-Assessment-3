@@ -15,6 +15,7 @@ Equal equity.
 ## Reading order
 
 * Report/
+* 
   -01-Introduction.ipynb
   
   -02-Exploratory Data Analysis.ipynb
