@@ -36,4 +36,4 @@ Equal equity.
   
   ## Description   
 
-A project focused on the classification of MRI brain scan images by tumor diagnosis by utilising neural networks.
+A project focused on the classification of MRI brain scan images by tumor diagnosis by utilising neural networks and parallelisation.
