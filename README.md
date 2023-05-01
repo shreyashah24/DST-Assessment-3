@@ -21,9 +21,19 @@ Equal equity.
   -02-Exploratory Data Analysis.ipynb
   
   -03-Preprocessing.ipynb
+  
+  -04-Visualisation_and_Modification.ipynb
+  
+  -05-Scalable_ResNet.ipynb
+  
+  -06-Preprocessing.ipynb
+  
+  -07-Testing.ipynb
+  
+  -08-Conclusion.ipynb
 
   
   
   ## Description   
 
-A project focused on...
+A project focused on the classification of MRI brain scan images by tumor diagnosis by utilising neural networks.
