@@ -26,7 +26,7 @@ Equal equity.
   
   -05-Scalable_ResNet.ipynb
   
-  -06-Preprocessing.ipynb
+  -06-Angle Classification.ipynb
   
   -07-Testing.ipynb
   
