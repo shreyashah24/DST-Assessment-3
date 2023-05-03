@@ -37,3 +37,9 @@ Equal equity.
   ## Description   
 
 A project focused on the classification of MRI brain scan images by tumor diagnosis by utilising neural networks and parallelisation.
+
+  ## Loading Data
+  
+  -To input the data, first create a 'Data' folder and 'NewData' folder within the report. 
+  -Then upload all data from the dataset https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset into the 'Data' folder.
+  -Then within the 'NewData' folder, using our project Google Drive: https://drive.google.com/drive/folders/1lw29a1eP0a95maHAQw0iotp51OT9XvB3, upload 'Training' into a folder called 'PreProcessed_Data', upload 'MRI Brain Scans' into a folder called 'New_MRI_Images', and 'Angle Classification/Train and Output Combined' into a folder called 'Angle_Data'.
